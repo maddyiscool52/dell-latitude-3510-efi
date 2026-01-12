@@ -2,6 +2,8 @@
 
 ## overview
 cool hackintosh project, runs tahoe
+
+## dont forget
 make sure to generate serials with gensmbios
 
 ## audio
