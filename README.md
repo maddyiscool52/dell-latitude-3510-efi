@@ -13,13 +13,13 @@ install VoodooHDA to get audio
 Yes:
 1. Trackpad
 2. Keyboard
-3. WiFi
+3. WiFi (download heliport.app)
 4. USB
 5. Graphics
 6. Camera
 7. Sound (with voodoohda)
+8. Touchscreen
 
 No:
 1. Mic (wont ever work due to intel "smart" sound)
 2. HDMI
-3. touchscreen (duh)
