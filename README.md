@@ -22,4 +22,4 @@ Yes:
 
 No:
 1. Mic (wont ever work due to intel "smart" sound)
-2. HDMI
+2. HDMI (hopefully in the future gotta keep an eye on WhateverGreen)
